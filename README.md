@@ -5,9 +5,9 @@
 _Lo primero_ ha sido crear la cuenta de Github y descargar la app de escritorio
 
 He creado los tres documentos: 
-*HTML
-*XML
-*RTF 
+* HTML
+* XML
+* RTF 
 
 _A continuación_ he buscado que tipo de extensión era cada uno asi como unos ejemplos, que he modificado ligeramente con el editor que uso para programas que no requieran compilación, **Atom**.
 
